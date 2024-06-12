@@ -145,7 +145,7 @@ References
 - ReadMe image was taken from:
   - https://pixabay.com/illustrations/dinosaurs-asteroid-stars-5568806/
     
-- Slide images
+- Introduction and Definition of Features in the DataSet Slide images
   -   https://pixabay.com/illustrations/asteroid-space-stars-meteor-1477065/
   -   https://pixabay.com/illustrations/armageddon-apocalypse-earth-2104385/
   -   https://en.wikipedia.org/wiki/Orbital_eccentricity
